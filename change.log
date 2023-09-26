@@ -1,0 +1,7 @@
+VOFTools, v3.1:
+---------------	
+This version incorporates several improvements, such as using a distance function, new bracketing and VCE procedures and a new formula for volume computation. Also, this version includes two new routines, enforv3dsz and enforv2dsz, that solve the local volume enforcement problem for rectangular parallelepiped cells and rectangular cells, respectively, using the method of Scardovelli and Zaleski [Journal of Computational Physics, 164 (2000) 228-237].
+
+VOFTools, v3.2:
+---------------	
+The present version incorporates a new functionality for liquid area/volume fraction initialization in convex polygonal/polyhedrical cells and fixes some bugs.
